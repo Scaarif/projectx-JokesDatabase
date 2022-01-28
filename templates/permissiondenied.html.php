@@ -1,0 +1,2 @@
+<h2>Access Denied</h2>
+<p>You don't have the permission to access this page. <!--<a href="index.php?route=login">Click here to log in</a>or <a href="index.php?route=author/register">here, to register an account</a>--></p>
